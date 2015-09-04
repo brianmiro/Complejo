@@ -1,4 +1,5 @@
 package Package_Complejo;
+/*Documentacion del Proyecto*/
 import java.math.*;
 	@SuppressWarnings("unused")
 	/**
@@ -35,7 +36,7 @@ public double getImaginaria(){ //getter que me devuelve la parte imaginaria del 
 			return this.imag;
 			}
 		
-public void setReal(double real){//setter que establece (asigna) la parte real, no devuelve nada al método que lo invoca.
+public void setReal(double real){//setter que establece (asigna) la parte real, no devuelve nada al mÃ©todo que lo invoca.
 			this.real=real;
 			}
 		
